@@ -1,5 +1,5 @@
 
-use el_student_4652746.users;
+use el_student_4652746;
 
 -- users table
 create external table users 
